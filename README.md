@@ -1,2 +1,2 @@
-## Bellabeat, founded by Urška Sršen and Sando Mur, is a high-tech company that manufactures health-focused smart products. Specially and beautifully designed technology targeting to inform and inspire women around the world to empower them with the knowledge about their own health and habits.
-## The Company is focusing on Her available consumer data to analyze smart device usage data in order to gain insights into how people are already using their smart devices. Then, using this information to derive high-level recommendations for how these trends can inform the Company marketing strategy.
+# R · Bellabeat Product-Track Project
+## The Project focuses on determining the usage of the Products and Consumers' behaviour to further modify the Company's Products according to the trends and Consumers' needs.
